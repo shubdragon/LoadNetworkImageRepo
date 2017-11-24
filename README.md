@@ -9,5 +9,6 @@ Points need to noted
 2) must share that location to homegroup.
 
 3) Note code behind in different pages and Package.appxmanifes (view it as code in xml editor)
+  and also read commentd text in code behind.
 
 4) then build and run.
